@@ -1,0 +1,15 @@
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\bin\Debug\net8.0\JwtMfaExample.Data.deps.json
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\bin\Debug\net8.0\JwtMfaExample.Data.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\bin\Debug\net8.0\JwtMfaExample.Data.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\bin\Debug\net8.0\JwtMfaExample.Models.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\bin\Debug\net8.0\JwtMfaExample.Models.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.csproj.AssemblyReference.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.AssemblyInfoInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.AssemblyInfo.cs
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.csproj.CoreCompileInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaEx.695B46C0.Up2Date
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\refint\JwtMfaExample.Data.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\JwtMfaExample.Data.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Data\obj\Debug\net8.0\ref\JwtMfaExample.Data.dll

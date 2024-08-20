@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mxErKyk5iF7STXu4mSzsTnovWcYD1UkaUmG4bgulxfY=",
+  "Source": "JwtMfaExample.Api",
+  "BasePath": "_content/JwtMfaExample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

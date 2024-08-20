@@ -1,0 +1,17 @@
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Services.deps.json
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Services.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Services.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Data.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Models.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Models.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\bin\Debug\net8.0\JwtMfaExample.Data.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.csproj.AssemblyReference.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.AssemblyInfoInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.AssemblyInfo.cs
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.csproj.CoreCompileInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaEx.C6993D0E.Up2Date
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\refint\JwtMfaExample.Services.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\JwtMfaExample.Services.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Services\obj\Debug\net8.0\ref\JwtMfaExample.Services.dll

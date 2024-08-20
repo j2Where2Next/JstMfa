@@ -1,0 +1,11 @@
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\bin\Debug\net8.0\JwtMfaExample.Models.deps.json
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\bin\Debug\net8.0\JwtMfaExample.Models.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\bin\Debug\net8.0\JwtMfaExample.Models.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.AssemblyInfoInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.AssemblyInfo.cs
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.csproj.CoreCompileInputs.cache
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\refint\JwtMfaExample.Models.dll
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\JwtMfaExample.Models.pdb
+C:\OurDocuments\JJ Etc\Where2Next\SkillsUpdate2024\VSCodeDEV\JwtMfa\JwtMfaExample.Models\obj\Debug\net8.0\ref\JwtMfaExample.Models.dll
